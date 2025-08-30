@@ -378,7 +378,7 @@ configuration. Please remember that e-mail is sent asynchronously via django-pos
 	EMAIL_REPLY_TO = 'info@example.com'
 	EMAIL_BACKEND = 'post_office.EmailBackend'
 
-.. _django-post_office: https://pypi.python.org/pypi/django-post_office
+.. _django-post_office: https://pypi.org/project/django-post-office/
 
 
 Session Handling

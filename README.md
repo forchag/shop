@@ -3,11 +3,10 @@
 **Django-SHOP** aims to be a the easy, fun and fast e-commerce counterpart to
 [django-CMS](https://www.django-cms.org/).
 
-[![Build Status](https://travis-ci.org/awesto/django-shop.svg?branch=master)](https://travis-ci.org/awesto/django-shop?branch=master)
-[![PyPI version](https://img.shields.io/pypi/v/django-shop.svg)](https://pypi.python.org/pypi/django-shop)
-[![Python versions](https://img.shields.io/pypi/pyversions/django-shop.svg)](https://pypi.python.org/pypi/django-shop)
+[![PyPI version](https://img.shields.io/pypi/v/django-shop.svg)](https://pypi.org/project/django-shop/)
+[![Python versions](https://img.shields.io/pypi/pyversions/django-shop.svg)](https://pypi.org/project/django-shop/)
 [![Join the chat at https://gitter.im/awesto/django-shop](https://badges.gitter.im/awesto/django-shop.svg)](https://gitter.im/awesto/django-shop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Software license](https://img.shields.io/pypi/l/django-shop.svg)](https://pypi.python.org/pypi/django-shop)
+[![Software license](https://img.shields.io/pypi/l/django-shop.svg)](https://pypi.org/project/django-shop/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/djangoSHOP.svg?style=social&label=djangoSHOP)](https://twitter.com/djangoSHOP)
 
 Here you can find the [full documentation for django-SHOP](https://django-shop.readthedocs.io/en/latest/).

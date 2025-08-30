@@ -25,7 +25,7 @@ Setting up the environment
 --------------------------
 
 We highly suggest you run the tests suite in a clean environment, using a tool such as
-`virtualenv <http://pypi.python.org/pypi/virtualenv>`_.
+`virtualenv <https://pypi.org/project/virtualenv/>`_.
 
 1. Clone the repository and cd into it:
 
