@@ -1,5 +1,5 @@
 """
-See PEP 386 (http://www.python.org/dev/peps/pep-0386/)
+See PEP 440 (https://www.python.org/dev/peps/pep-0440/)
 
 Release logic:
  1. Increase version number in __version__ (below)
@@ -8,7 +8,7 @@ Release logic:
  4. git add shop/__init__.py docs/changelog.rst setup.py
  5. git commit -m 'Bump to {new version}'
  6. git push
- 7. assure that all tests pass on https://travis-ci.org/awesto/django-shop
+ 7. assure that all tests pass in the CI pipeline
  8. git tag {new version}
  9. git push --tags
 10. python setup.py sdist
